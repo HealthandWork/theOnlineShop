@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Goods",
+			"path": "..\\Debugging2\\Debugging2\\Goods"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.dependency.packagePresentation": "hierarchical"
+	}
+}
